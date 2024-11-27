@@ -2,4 +2,4 @@ pickle
 sys
 numpy
 pandas 
-streamlit
+streamlit =1.40.2
