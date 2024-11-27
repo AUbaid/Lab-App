@@ -1,4 +1,3 @@
-sys
 numpy
 pandas 
 streamlit ==1.40.2
